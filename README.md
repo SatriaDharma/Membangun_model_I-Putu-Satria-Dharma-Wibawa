@@ -11,6 +11,7 @@ Bagian ini berfokus pada proses pelatihan model machine learning dengan implemen
 - `screenshot_artifak_2.jpg`: Bukti artifak 2 di DagsHub.
 - `screenshot_artifak_3.jpg`: Bukti artifak 3 di MLFlow.
 - `screenshot_dashboard.jpg`: Bukti eksperimen di DagsHub.
+- `modelling.py`: Proses pelatihan model sederhana.
 - `modelling_tuning.py`: Proses pelatihan model dengan hyperparameter tuning dan GridSearchCV.
 - `requirements.txt`: Dependendsi Sistem.
 - `DagsHub.txt`: Link menuju repository DagsHub.
